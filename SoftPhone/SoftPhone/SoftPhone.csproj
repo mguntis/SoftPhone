@@ -33,6 +33,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="FluorineFx">
+      <HintPath>C:\Program Files\Ozeki\Ozeki SDK\SDK\.NET4\FluorineFx.dll</HintPath>
+    </Reference>
+    <Reference Include="OzekiMediaGateway">
+      <HintPath>C:\Program Files\Ozeki\Ozeki SDK\SDK\.NET4\OzekiMediaGateway.dll</HintPath>
+    </Reference>
     <Reference Include="OzekiSDK">
       <HintPath>C:\Program Files\Ozeki\Ozeki SDK\SDK\.NET4\OzekiSDK.dll</HintPath>
     </Reference>
